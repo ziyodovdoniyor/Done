@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Loyiha</string>
+    <string name="choose_language">Choose language</string>
+    <string name="next">Next</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter">Enter</string>
+    <string name="new_one">New One?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="you_have_already_registered">You have already registred?</string>
+    <string name="set_up_password">Set up password</string>
+    <string name="save">Save</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="verify">Verify</string>
+    <string name="search">Search</string>
+    <string name="tasks_left">tasks \nleft</string>
+</resources>
